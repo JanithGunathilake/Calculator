@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="number1">Enter Number 1</string>
+    <string name="number2">Enter Number 2</string>
+    <string name="label_number1">Number 01</string>
+    <string name="label_number_2">Number 02</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multiply">x</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_plus">+</string>
+    <string name="text_view">Text View</string>
+    <string name="back">Back</string>
+    <string name="head">Answer</string>
+</resources>
